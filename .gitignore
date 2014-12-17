@@ -10,3 +10,4 @@ wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
+#wp-config-local.php # Normally this wouldn't be commented out.
